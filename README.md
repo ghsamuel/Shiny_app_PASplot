@@ -4,7 +4,7 @@ Interactive R Shiny app for creating publication-quality bubble plots showing tr
 
 ## 🚀 Live Demo
 
-**[Try it online →](https://your-username.shinyapps.io/PAS_Shiny_App/)** *(deploy first, then add link)*
+**[Try it online →](https://your-username.shinyapps.io/PAS_Shiny_App/)** *(COMING SOON)*
 
 ## 📊 What It Does
 
